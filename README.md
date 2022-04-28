@@ -1,4 +1,4 @@
-Software Engineer - Java, Python, Groovy. Intereste d3, leaflet and data visualization too.
+Software Engineer
 
 <!--
 **mikethayes/mikethayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
